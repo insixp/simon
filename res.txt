@@ -1,0 +1,37 @@
+time: 1631789811.7316918; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789812.9373672
+time: 1631789814.0825238; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789814.6147313; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789815.8714106
+time: 1631789817.0721462
+time: 1631789818.2330987; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789818.7497315; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789819.267759; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789820.488543
+time: 1631789821.6886797
+time: 1631789822.855361
+time: 1631789824.000964; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789824.5150204; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789825.0127177; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789825.5647573; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789826.7397513
+time: 1631789827.889916
+time: 1631789829.0556648
+time: 1631789830.2228549
+time: 1631789831.3673346; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789831.8835669; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789832.3992836; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789832.9472764; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789833.4330792; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789834.606941
+time: 1631789835.7730563
+time: 1631789836.8899944
+time: 1631789838.0557337
+time: 1631789839.2157595
+time: 1631789840.1664135; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789840.617866; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789841.0326235; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789841.4482152; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789841.9015212; color: r; len: True; trigger_lock: False; trigger_color: None
+time: 1631789842.3166497; color: b; len: True; trigger_lock: False; trigger_color: None
+time: 1631789843.5077996
